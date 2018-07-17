@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+
 @section('content')
     <div class="col-md-12 row">
         <div class="col-md-8">@yield('body')</div>
